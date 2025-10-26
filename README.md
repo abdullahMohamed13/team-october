@@ -18,4 +18,4 @@
 
 ## Shadcn
 `npx shadcn@latest init`
-[Shadcn Website](https://ui.shadcn.com)
+[Shadcn Website](https://ui.shadcn.com/docs/components)
